@@ -1,0 +1,10 @@
+D:\C#Practices\BuildAHouse\BuildHouses\BuildHouse\bin\Debug\BuildHouse.exe.config
+D:\C#Practices\BuildAHouse\BuildHouses\BuildHouse\bin\Debug\BuildHouse.exe
+D:\C#Practices\BuildAHouse\BuildHouses\BuildHouse\bin\Debug\BuildHouse.pdb
+D:\C#Practices\BuildAHouse\BuildHouses\BuildHouse\obj\Debug\BuildHouse.csprojAssemblyReference.cache
+D:\C#Practices\BuildAHouse\BuildHouses\BuildHouse\obj\Debug\BuildHouse.Properties.Resources.resources
+D:\C#Practices\BuildAHouse\BuildHouses\BuildHouse\obj\Debug\BuildHouse.csproj.GenerateResource.cache
+D:\C#Practices\BuildAHouse\BuildHouses\BuildHouse\obj\Debug\BuildHouse.csproj.CoreCompileInputs.cache
+D:\C#Practices\BuildAHouse\BuildHouses\BuildHouse\obj\Debug\BuildHouse.exe
+D:\C#Practices\BuildAHouse\BuildHouses\BuildHouse\obj\Debug\BuildHouse.pdb
+D:\C#Practices\BuildAHouse\BuildHouses\BuildHouse\obj\Debug\BuildHouse.Form1.resources

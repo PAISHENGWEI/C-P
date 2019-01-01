@@ -1,0 +1,10 @@
+D:\Build School C#\Party-Valuation\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Build School C#\Party-Valuation\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Build School C#\Party-Valuation\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Build School C#\Party-Valuation\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PartyPlanner.csprojAssemblyReference.cache
+D:\Build School C#\Party-Valuation\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Build School C#\Party-Valuation\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Build School C#\Party-Valuation\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PartyPlanner.csproj.GenerateResource.cache
+D:\Build School C#\Party-Valuation\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PartyPlanner.csproj.CoreCompileInputs.cache
+D:\Build School C#\Party-Valuation\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Build School C#\Party-Valuation\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

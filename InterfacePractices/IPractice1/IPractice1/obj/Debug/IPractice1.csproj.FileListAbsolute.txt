@@ -1,0 +1,7 @@
+D:\C#Practices\InterfacePractices\IPractice1\IPractice1\bin\Debug\IPractice1.exe.config
+D:\C#Practices\InterfacePractices\IPractice1\IPractice1\bin\Debug\IPractice1.exe
+D:\C#Practices\InterfacePractices\IPractice1\IPractice1\bin\Debug\IPractice1.pdb
+D:\C#Practices\InterfacePractices\IPractice1\IPractice1\obj\Debug\IPractice1.csprojAssemblyReference.cache
+D:\C#Practices\InterfacePractices\IPractice1\IPractice1\obj\Debug\IPractice1.csproj.CoreCompileInputs.cache
+D:\C#Practices\InterfacePractices\IPractice1\IPractice1\obj\Debug\IPractice1.exe
+D:\C#Practices\InterfacePractices\IPractice1\IPractice1\obj\Debug\IPractice1.pdb

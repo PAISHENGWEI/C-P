@@ -1,0 +1,10 @@
+D:\C#Practices\Honeycomb-management\Honeycomb\Honeycomb\bin\Debug\Honeycomb.exe.config
+D:\C#Practices\Honeycomb-management\Honeycomb\Honeycomb\bin\Debug\Honeycomb.exe
+D:\C#Practices\Honeycomb-management\Honeycomb\Honeycomb\bin\Debug\Honeycomb.pdb
+D:\C#Practices\Honeycomb-management\Honeycomb\Honeycomb\obj\Debug\Honeycomb.csprojAssemblyReference.cache
+D:\C#Practices\Honeycomb-management\Honeycomb\Honeycomb\obj\Debug\Honeycomb.Form1.resources
+D:\C#Practices\Honeycomb-management\Honeycomb\Honeycomb\obj\Debug\Honeycomb.Properties.Resources.resources
+D:\C#Practices\Honeycomb-management\Honeycomb\Honeycomb\obj\Debug\Honeycomb.csproj.GenerateResource.cache
+D:\C#Practices\Honeycomb-management\Honeycomb\Honeycomb\obj\Debug\Honeycomb.csproj.CoreCompileInputs.cache
+D:\C#Practices\Honeycomb-management\Honeycomb\Honeycomb\obj\Debug\Honeycomb.exe
+D:\C#Practices\Honeycomb-management\Honeycomb\Honeycomb\obj\Debug\Honeycomb.pdb
